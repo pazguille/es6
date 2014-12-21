@@ -1,0 +1,26 @@
+{
+  "name": "es6",
+  "version": "0.0.1",
+  "description": "ES6 modules today",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pazguille/es6.git"
+  },
+  "keywords": [
+    "es6",
+    "modules"
+  ],
+  "author": "Guille Paz <guille87paz@gmail.com> (http://pazguille.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pazguille/es6/issues"
+  },
+  "homepage": "https://github.com/pazguille/es6",
+  "devDependencies": {
+    "6to5": "^1.15.0",
+    "6to5ify": "^2.0.0",
+    "browserify": "^7.0.3"
+  }
+}
