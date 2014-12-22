@@ -1,7 +1,7 @@
 {
   "name": "es6",
   "version": "0.0.1",
-  "description": "ES6 modules today",
+  "description": "ES6 today",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -9,8 +9,7 @@
     "url": "https://github.com/pazguille/es6.git"
   },
   "keywords": [
-    "es6",
-    "modules"
+    "es6"
   ],
   "author": "Guille Paz <guille87paz@gmail.com> (http://pazguille.me/)",
   "license": "MIT",
