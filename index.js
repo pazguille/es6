@@ -2,6 +2,7 @@
 
 import clone from './src/clone';
 import extend from './src/extend';
+import Emitter from './src/emitter';
 
 let obj = {
   'foo': 'bar'
@@ -17,3 +18,7 @@ console.log(cloned);
 let obj3 = clone(obj2);
 extend(obj3, obj);
 console.log(obj3);
+
+var bus = new Emitter();
+
+export {clone, extend, bus};
