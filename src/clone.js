@@ -1,12 +1,12 @@
 'use strict';
 
- /**
-  * Returns a shallow-copied clone of a given object.
-  * @param {Object} obj - A given object to clone.
-  * @returns {Object}
-  * @example
-  * clone(object);
-  */
+/**
+ * Returns a shallow-copied clone of a given object.
+ * @param {Object} obj - A given object to clone.
+ * @returns {Object}
+ * @example
+ * clone(object);
+ */
 function clone(obj) {
   let copy = {};
   for (let prop in obj) {
