@@ -1,8 +1,8 @@
 # es6
 
-> ES6 modules today
+> ES6 today
 
-## Made with ❤ by
+## Made with ❤
 - Guille Paz (Front-end developer | Web standards lover)
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](http://twitter.com/pazguille)
